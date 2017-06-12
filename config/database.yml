@@ -1,0 +1,13 @@
+development:
+  adapter: postgresql
+  database: role_handle_development
+  host: localhost
+  encoding: utf8
+  min_messages: warning
+
+test:
+  adapter: postgresql
+  database: role_handle_test
+  host: localhost
+  encoding: utf8
+  min_messages: warning

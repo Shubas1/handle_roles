@@ -1,0 +1,17 @@
+This is the app in which you can have assign and delete roles to the users.
+
+This is a project in which Rails 5 is being used. Which is the Latest version and new to the market.
+
+
+
+Basic Requirement
+==================
+
+
+1.Install RVM 2.3.1
+2.Install Postgres server.
+3.Go to the project from console.
+4.Automatically gemset will be created for this you just need to run bundle.
+5.Once bundle is successful run rails db:create:migrate
+6.Run the Rails server and project is up now on localhost.
+
